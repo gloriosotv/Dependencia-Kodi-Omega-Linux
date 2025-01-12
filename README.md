@@ -40,6 +40,10 @@ Zattoo PVR client for Kodi.
 - Source: https://github.com/xbmc/vfs.libarchive/tree/Omega
 - Zip file: [[v21.0.0-Omega-2024-04-29-vfs.libarchive.zip]](https://github.com/gloriosotv/Dependencia-Kodi-Omega/raw/main/v21.0.0-Omega-2024-04-29-vfs.libarchive.zip)
 
+- ### vfs.rar-linux-20.1.0-Omega
+- Source: https://github.com/xbmc/vfs.rar/
+- Zip file: [[vfs.rar-linux-20.1.0-Omega.zip]]([vfs.rar-linux-20.1.0-Omega](https://github.com/gloriosotv/Dependencia-Kodi-Omega-Linux/raw/refs/heads/main/vfs.rar-linux-20.1.0-Omega.zip))
+
 
 ### License
 GPLv2 licensed.
