@@ -7,6 +7,10 @@ InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect/tree/Omega
 - Zip file: [[[[v21.3.5-Omega-2024-04-12-inputstream.ffmpegdirect.zip]]]](https://github.com/gloriosotv/Dependencia-Kodi-Omega-Linux/raw/main/v21.3.5-Omega-2024-04-12-inputstream.ffmpegdirect.zip)
 
+- ### F4MTester 4.1.4
+
+- Zip file: [[F4MTester 4.1.4]](https://github.com/gloriosotv/Dependencia-Kodi-Omega-Linux/raw/refs/heads/main/plugin.video.f4mTester-4.1.4.zip)
+
 ### InputStream Adaptive
 InputStream client for adaptive streams.
 Google Widevine - on Linux systems is required WV library.
