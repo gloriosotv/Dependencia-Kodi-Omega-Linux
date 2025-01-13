@@ -1,6 +1,6 @@
 # Kodi Omega addons for Linux
 
-Addons for Kodi v21.0-Omega for Linux distributions based on Debian and Ubuntu. For development purpose only.
+Addons for Kodi v21.0-Omega.
 
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
